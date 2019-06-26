@@ -1,3 +1,4 @@
+"""Gets the current powerstates of all VMS on vSphere"""
 import atexit
 import csv
 import getpass
